@@ -14,9 +14,7 @@
 
 ## 🎬 Dashboard Walkthrough
 
-[![Watch the Dashboard Demo]((https://github.com/ChanakyaSreeHarshaG/Social_Media_Ad_Campaign_Dashboard/blob/main/Resources/social_media_campaign_recording.mp4))](https://github.com/ChanakyaSreeHarshaG/Social_Media_Ad_Campaign_Dashboard/blob/main/Resources/social_media_campaign_demo.mp4)
-
-> 📽️ *Click the image above to watch the full dashboard walkthrough video.*
+https://github.com/ChanakyaSreeHarshaG/Social_Media_Ad_Campaign_Dashboard/blob/main/Resources/social_media_campaign_recording.mp4
 
 ---
 
@@ -135,7 +133,7 @@ Social_Media_Ad_Campaign_Dashboard/
 ├── Resources/                         # Visual assets & media
 │   ├── Social_media_campaign_dashboard.png   # Dashboard screenshot
 │   ├── Data_Modeling.png                     # Star schema diagram
-│   └── social_media_campaign_demo.mp4        # Dashboard walkthrough video
+│   └── social_media_campaign_recording.mp4   # Dashboard walkthrough video
 │
 ├── power_bi_file/                     # Power BI project file
 │   └── social_media_campaign.pbix
