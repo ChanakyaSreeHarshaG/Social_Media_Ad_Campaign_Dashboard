@@ -13,8 +13,8 @@
 ---
 
 ## 🎬 Dashboard Walkthrough
-
-https://github.com/ChanakyaSreeHarshaG/Social_Media_Ad_Campaign_Dashboard/blob/main/Resources/social_media_campaign_recording.mp4
+[![Social Media Campaign Dashboard Walkthrough](https://github.com/ChanakyaSreeHarshaG/Social_Media_Ad_Campaign_Dashboard/blob/main/Resources/social_media_campaign_rec.gif)]
+(https://github.com/ChanakyaSreeHarshaG/Social_Media_Ad_Campaign_Dashboard/blob/main/Resources/social_media_campaign_rec.gif)
 
 ---
 
